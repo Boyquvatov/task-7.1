@@ -1,0 +1,25 @@
+    .pagination{
+        width: 200px;
+        display: flex;
+        gap: 20px;
+    }
+    .select{
+        width: 250px;
+        margin-bottom: 20px;
+        display: flex;
+        gap: 20px;
+        
+    }
+    .cards{
+        margin: 30px;
+        min-width: 350px;
+        height: 550px;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .btn {
+        margin-bottom: 20px; 
+      }
+      

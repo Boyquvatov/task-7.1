@@ -1,0 +1,15 @@
+.modal-dialog {
+    position: fixed;
+    top: 10%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+  }
+  .card {
+    display: flex;
+    gap: 20px;
+  }
+  .card-container {
+    display: flex;
+    gap: 2opx;
+  }
+    
